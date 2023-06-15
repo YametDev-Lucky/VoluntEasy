@@ -1,0 +1,216 @@
+.completeSignupChild {
+  position: absolute;
+  top: 123.5px;
+  left: 70.5px;
+  border-top: 1px solid var(--color-ghostwhite);
+  box-sizing: border-box;
+  width: 1139px;
+  height: 1px;
+}
+.signUp {
+  position: absolute;
+  top: 23px;
+  left: 100px;
+  font-size: var(--font-size-xl);
+  line-height: 35px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 309px;
+  height: 29px;
+}
+.signUpWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-300);
+  padding: 0;
+  background-color: var(--color-darkorchid);
+  position: absolute;
+  top: 594px;
+  left: 220px;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 543px;
+  height: 76px;
+  overflow: hidden;
+}
+.alreadyHaveA {
+  font-weight: 300;
+}
+.logIn {
+  color: var(--color-darkorchid);
+}
+.alreadyHaveAContainer {
+  position: absolute;
+  top: 743px;
+  left: 323px;
+  display: inline-block;
+  width: 337px;
+  height: 61px;
+}
+.byClickingSign {
+  position: absolute;
+  top: 1.33px;
+  left: 83.91px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 207.11px;
+  height: 16.67px;
+}
+.spanmatRipple {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  width: 115.51px;
+  height: 36px;
+}
+.termsOfUse {
+  position: absolute;
+  top: 10px;
+  left: 15.65px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 17px;
+}
+.amatFocusIndicator,
+.spanmatRipple1 {
+  position: absolute;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  height: 36px;
+}
+.amatFocusIndicator {
+  top: 20px;
+  left: 51.35px;
+  width: 115.51px;
+  color: var(--color-darkorchid-100);
+}
+.spanmatRipple1 {
+  top: 0;
+  left: 0;
+  width: 119.6px;
+}
+.privacyPolicy {
+  position: absolute;
+  top: 10px;
+  left: 15.96px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 97px;
+  height: 17px;
+}
+.amatFocusIndicator1 {
+  position: absolute;
+  top: 20px;
+  left: 197.04px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  width: 119.6px;
+  height: 36px;
+  color: var(--color-darkorchid-100);
+}
+.and,
+.frame {
+  position: absolute;
+}
+.and {
+  top: 29.33px;
+  left: 166.86px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30.17px;
+  height: 16.67px;
+}
+.frame {
+  top: 508px;
+  left: 282px;
+  background-color: var(--color-gray-100);
+  width: 368px;
+  height: 56px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-roboto);
+}
+.frameChild,
+.frameInner,
+.frameItem,
+.frameTextfield {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 99px;
+  left: 220px;
+}
+.frameInner,
+.frameItem,
+.frameTextfield {
+  top: 198px;
+}
+.frameInner,
+.frameTextfield {
+  top: 403px;
+}
+.frameTextfield {
+  top: 303px;
+}
+.frameParent {
+  position: absolute;
+  top: 211px;
+  left: 148px;
+  border-radius: var(--br-131xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkorchid);
+  box-sizing: border-box;
+  width: 983px;
+  height: 887px;
+  overflow: hidden;
+}
+.icon {
+  position: absolute;
+  top: 81px;
+  left: 548px;
+  width: 185px;
+  height: 43px;
+  object-fit: cover;
+}
+.completeSignUp {
+  position: absolute;
+  top: 251px;
+  left: 514px;
+  font-size: var(--font-size-9xl);
+  line-height: 35px;
+  display: flex;
+  font-family: var(--font-roboto);
+  color: var(--color-darkslategray-100);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 253px;
+  height: 34px;
+}
+.completeSignup {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1134px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
